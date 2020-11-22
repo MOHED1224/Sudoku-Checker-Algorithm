@@ -1,5 +1,6 @@
 import time
 import pandas
+
 print("Welcome to Sudoku")
 print("Plese Enter Each Row in Puzzel then Press Enter")
 
